@@ -1,0 +1,21 @@
+RegNo    Name               StudentID          Email              Phone       Department            Year
+S001   John Doe              2023001     johndoe@example.com   9876543210  Computer Science         2023
+S002   Jane Smith            2023002     janesmith@example.com 9876504321  Information Technology   2023
+S003   Michael Johnson       2023003     michaelj@example.com  9876512345  Computer Science         2023
+S004   Emily Davis           2023004     emilyd@example.com    9876523456  Electronics              2023
+S005   William Brown         2023005     willb@example.com     9876534567  Mechanical               2023
+S006   Olivia Wilson         2023006     oliviaw@example.com   9876545678  Civil                    2023
+S007   James Miller          2023007     jamesm@example.com    9876556789  Mathematics              2023
+S008   Sophia Taylor         2023008     sophiat@example.com   9876567890  Physics                  2023
+S009   Benjamin Anderson     2023009     benan@example.com     9876578901  Chemistry                2023
+S010   Ava Thomas            2023010     avath@example.com     9876589012  Computer Science         2023
+S011   Daniel Jackson        2023011     danielj@example.com   9876590123  Information Technology   2023
+S012   Mia White             2023012     miaw@example.com      9876601234  Electronics              2023
+S013   Christopher Harris    2023013     ch@example.com        9876612345  Mechanical               2023
+S014   Carlotte Martin       2023014     carlotem@example.com  9876623456  Civil                    2023
+S015   Matthew Thompson      2023015     mattth@example.com    9876634567  Mathematics              2023
+S016   Amelia Garcia         2023016     amelia@example.com    9876645678  Physics                  2023
+S017   Andrew Martinez       2023017     andrewm@example.com   9876656789  Chemistry                2023
+S018   Evelyn Robinson       2023018     evelynr@example.com   9876667890  Computer Science         2023
+S019   Joseph Clark          2023019     josephc@example.com   9876678901  Information Technology   2023
+S020   Grace Rodriguez       2023020     gracer@example.com    9876689012  Electronics              2023
